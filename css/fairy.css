@@ -1,0 +1,15 @@
+.spank {
+	color: purple;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+}
+
+body {
+	background-image: url(https://secure.static.tumblr.com/93e6b00bc9e0d9f98dc65b9c871d9c00/oqcakxu/oGbnznpqm/tumblr_static_e6in5cuhee8kkgk4ssgkoc4cs_640_v2.jpg);
+}
+
+.unspank{
+	position: static;
+    border: 3px solid #FF69B4;
+}
+
