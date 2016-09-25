@@ -9,7 +9,8 @@ body {
 }
 
 .unspank{
-	position: static;
-    border: 3px solid #FF69B4;
+	margin-top: 4px;
+	margin-bottom: 4px;
+  border: 3px solid #FF69B4;
+  font-family: Courier, Monaco, monospace;
 }
-
